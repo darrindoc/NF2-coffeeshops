@@ -1,0 +1,15 @@
+.shop {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    flex-basis: 16%;
+    text-align: center;
+}
+
+.list  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
